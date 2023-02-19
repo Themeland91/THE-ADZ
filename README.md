@@ -5,5 +5,5 @@ Adz will be created on Canva and regarding links will be given from Google PlayS
 
 
 
-This URLS will direct users from settings to Download Pages | With help of OPEN LINK ACTION 
+RAW URLS will direct users from settings to Download Pages | With help of OPEN LINK ACTION 
 NOTE :-  Must take care that given Adz related URL is pasted in separate RAWS
